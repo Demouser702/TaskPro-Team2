@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TaskPro-Team2/static/css/main.7acaea2f.css",
+    "main.js": "/TaskPro-Team2/static/js/main.cafdaebe.js",
+    "index.html": "/TaskPro-Team2/index.html",
+    "main.7acaea2f.css.map": "/TaskPro-Team2/static/css/main.7acaea2f.css.map",
+    "main.cafdaebe.js.map": "/TaskPro-Team2/static/js/main.cafdaebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.cafdaebe.js"
+  ]
+}
