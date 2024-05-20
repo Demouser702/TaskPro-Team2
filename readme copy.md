@@ -34,7 +34,7 @@ Team Members and responsability
 1. Razvan Cosma - Team Lead /
 2. Emil Târâlă -SCRUM /
 3. Roxana Orha- Backend developer
-4.
+4. Daniel Predescu - Backend developer
 5.
 6.
 7.
