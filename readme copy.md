@@ -35,6 +35,6 @@ Team Members and responsability
 2. Emil Târâlă -SCRUM /
 3. Roxana Orha- Backend developer
 4. Daniel Predescu - Backend developer
-5.
-6.
-7.
+5. Adela Tig - Frontend developer
+6. Emanuela Mocan - Frontend developer
+7. Marius Daniel - Backend developer
